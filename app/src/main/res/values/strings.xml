@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pam activity 2</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="bsignin">Sign-In</string>
+    <string name="var1">ini pesan</string>
+    <string name="tLogin">LOGIN</string>
+    <string name="tData">Data anda</string>
+    <string name="txemail">Ini hasil email</string>
+    <string name="txpassword">Ini hasil password</string>
+    <string name="label2">Login berhasil</string>
+</resources>
